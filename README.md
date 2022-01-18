@@ -1,7 +1,7 @@
 # Time_Measurement
 処理時間をシリアルモニターに表示できます
 
-# functions
+## functions
 
 - processingus
 
@@ -12,7 +12,7 @@
   処理時間をミリ秒単位で表示
 
 
-# Usage
+## Usage
 
 ループの中に関数を入れる
 
